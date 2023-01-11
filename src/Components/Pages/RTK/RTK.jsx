@@ -1,7 +1,9 @@
+import {Feed} from "../../Common";
+
 const RTK = () => {
     return (
         <>
-            10
+            <Feed />
         </>
     )
 };
